@@ -1,8 +1,11 @@
-# React + Vite
+# KRUNK ASSESSMENT
+Made by Gyanendra Verma
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SITE ON WEB
+![web](https://github.com/gyanendra19/krunk-assignment/assets/144844917/818be1c2-408c-43ee-8784-de60dfa2399b)
 
-Currently, two official plugins are available:
+SITE ON MOBILE
+![mobile](https://github.com/gyanendra19/krunk-assignment/assets/144844917/93509ab4-ff25-4579-b2ce-954762e887bb)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+SITE ON TABS
+![tab](https://github.com/gyanendra19/krunk-assignment/assets/144844917/1098b813-1274-4133-a883-5bb4088d1e4f)
